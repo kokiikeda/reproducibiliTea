@@ -8,7 +8,7 @@ website:
 twitter: repTeaTokyo
 signup: 
 organisers: [Koki Ikeda, Kai Hiraishi]
-contact: kokiikd@gmail.com
+contact: repTeaTokyo@gmail.com
 additional-contact: []
 address: [Kai Hiraishi, Faculty of Letters, Keio University, 2-14-45 Mita, Minatoku, Tokyo, 108-8345 Japan]
 country: Japan
